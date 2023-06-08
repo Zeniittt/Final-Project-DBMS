@@ -1,0 +1,65 @@
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManager.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountProfile.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fBookManage.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fStaffManage.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fReaderManage.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fCardReaderManage.resources
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountProfile.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fBookManage.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fCardReaderManage.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fReaderManage.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fStaffManage.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManager.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fBorrow_ReturnBook.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSearchBook.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fStatistical.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fPrintBorrowTicket.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fPrintReturnTicket.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fContact.resources
+C:\Users\ADMIN\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fGuideToUse.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountProfile.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fBookManage.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fBorrow_ReturnBook.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fCardReaderManage.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fContact.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fGuideToUse.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fPrintBorrowTicket.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fPrintReturnTicket.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fReaderManage.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSearchBook.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fStaffManage.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fStatistical.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManager.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\hoc\On school\Term 5\Database management system\The final Project\Project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb

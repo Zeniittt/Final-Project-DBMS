@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{91777C23-58C8-4503-B5CC-C6F0A4142879}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyThuVien</RootNamespace>
+    <AssemblyName>QuanLyThuVien</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BookDAO.cs" />
+    <Compile Include="DAO\CardReaderDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\ReaderDAO.cs" />
+    <Compile Include="DAO\SearchBookDAO.cs" />
+    <Compile Include="DAO\StaffDAO.cs" />
+    <Compile Include="DAO\TicketBookDAO.cs" />
+    <Compile Include="DAO\TicketBookDetailDAO.cs" />
+    <Compile Include="DAO\TKBookDAO.cs" />
+    <Compile Include="DAO\TKBorrow_ReturnDAO.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\Book.cs" />
+    <Compile Include="DTO\CardReader.cs" />
+    <Compile Include="DTO\Reader.cs" />
+    <Compile Include="DTO\SearchBook.cs" />
+    <Compile Include="DTO\Staff.cs" />
+    <Compile Include="DTO\TicketBook.cs" />
+    <Compile Include="DTO\TicketBookDetail.cs" />
+    <Compile Include="DTO\TKBook.cs" />
+    <Compile Include="fAccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAccountProfile.Designer.cs">
+      <DependentUpon>fAccountProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fBookManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBookManage.Designer.cs">
+      <DependentUpon>fBookManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fBorrow_ReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBorrow_ReturnBook.Designer.cs">
+      <DependentUpon>fBorrow_ReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCardReaderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCardReaderManage.Designer.cs">
+      <DependentUpon>fCardReaderManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fContact.Designer.cs">
+      <DependentUpon>fContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fGuideToUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGuideToUse.Designer.cs">
+      <DependentUpon>fGuideToUse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPrintBorrowTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPrintBorrowTicket.Designer.cs">
+      <DependentUpon>fPrintBorrowTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPrintReturnTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPrintReturnTicket.Designer.cs">
+      <DependentUpon>fPrintReturnTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fReaderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReaderManage.Designer.cs">
+      <DependentUpon>fReaderManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSearchBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSearchBook.Designer.cs">
+      <DependentUpon>fSearchBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStaffManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStaffManage.Designer.cs">
+      <DependentUpon>fStaffManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStatistical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStatistical.Designer.cs">
+      <DependentUpon>fStatistical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTableManager.Designer.cs">
+      <DependentUpon>fTableManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fAccountProfile.resx">
+      <DependentUpon>fAccountProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fBookManage.resx">
+      <DependentUpon>fBookManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fBorrow_ReturnBook.resx">
+      <DependentUpon>fBorrow_ReturnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCardReaderManage.resx">
+      <DependentUpon>fCardReaderManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fContact.resx">
+      <DependentUpon>fContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGuideToUse.resx">
+      <DependentUpon>fGuideToUse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPrintBorrowTicket.resx">
+      <DependentUpon>fPrintBorrowTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPrintReturnTicket.resx">
+      <DependentUpon>fPrintReturnTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReaderManage.resx">
+      <DependentUpon>fReaderManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSearchBook.resx">
+      <DependentUpon>fSearchBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStaffManage.resx">
+      <DependentUpon>fStaffManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStatistical.resx">
+      <DependentUpon>fStatistical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTableManager.resx">
+      <DependentUpon>fTableManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardreader.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardreader1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\readercard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardreaderrr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staffmanage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\readermanage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardreadermanage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmanage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundContact.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundContact1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideLogin6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guideTableControl1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
